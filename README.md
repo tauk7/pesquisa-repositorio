@@ -27,5 +27,6 @@
 
 1. Instale o Angular abrindo o PowerShell e digitando: npm install -g @angular/cli
 2. Vá para o diretório da aplicação. Exemplo: cd C:\Users\Matheus\Documents\angular\field
-2. Digite ainda no PowerShell: ng serve
-3. Acesse http://localhost:4200/
+3. Digite: npm install
+5. Digite: ng serve
+6. Acesse http://localhost:4200/
